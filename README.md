@@ -1,2 +1,2 @@
-# Artificial-Neural-Network
-This ANN predicts the Skelton river mean daily flow for the next day
+# Skelton River Mean Daily Flow Prediction using Artificial Neural Networks (ANN)
+This repository contains a Python implementation of an Artificial Neural Network (ANN) model that predicts the mean daily flow of the Skelton River for the next day. The model is trained on historical flow data to provide accurate predictions, which can be valuable for various applications, including water resource management, flood prediction, and environmental monitoring.
